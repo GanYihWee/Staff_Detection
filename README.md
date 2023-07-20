@@ -1,8 +1,9 @@
 # Staff_Detection
 Combination of object detection and classification models to identify staff in a video.
+Steps and flows can be found in the documentation.
 
-### Step 1: Self-generate staff images (with name tag) for training  using [Human-Aligned Bounding Boxes from Overhead Fisheye cameras dataset (HABBOF)](https://vip.bu.edu/projects/vsns/cossy/datasets/habbof/). 
-### The dataset can be found in: [self-generated dataset](https://drive.google.com/file/d/1E0Swr1u6TP0xTS-p3NZ1wfzdCZGlf15k/view?usp=drive_link) and save under the dataset folder. 
+### Step 1: Self-generate staff images (with name tag) for training using [Human-Aligned Bounding Boxes from Overhead Fisheye cameras dataset (HABBOF)](https://vip.bu.edu/projects/vsns/cossy/datasets/habbof/). 
+### The dataset can be found in: [self-generated dataset](https://drive.google.com/file/d/1E0Swr1u6TP0xTS-p3NZ1wfzdCZGlf15k/view?usp=drive_link) and place it under the dataset folder. 
 ### The code to generate the dataset can be found in: [image_augmentation.ipynb](https://github.com/GanYihWee/Staff_Detection/blob/main/image_augmentation.ipynb)
 
 
