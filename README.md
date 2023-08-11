@@ -3,7 +3,7 @@ Combination of object detection and classification models to identify staff in a
 Steps and flows can be found in the documentation.
 
 # Flows:
-## The [Demo.mp4](https://github.com/GanYihWee/Staff_Detection/blob/main/demo.mp4) demostrate the flow of this system.
+## The [Demo.mp4](https://github.com/GanYihWee/Staff_Detection/blob/main/Demo.mp4) demostrate the flow of this system.
 
 ### Step 1: Self-generate staff images (with name tag) for training using [Human-Aligned Bounding Boxes from Overhead Fisheye cameras dataset (HABBOF)](https://vip.bu.edu/projects/vsns/cossy/datasets/habbof/). 
 ### The dataset can be found in: [self-generated dataset](https://drive.google.com/file/d/1E0Swr1u6TP0xTS-p3NZ1wfzdCZGlf15k/view?usp=drive_link) Unzip and place it under the dataset folder. 
